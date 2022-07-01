@@ -12,9 +12,6 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in DevOps, Gaming, and Cybersecurity
 - 🌱 I’m currently learning Cloud and DevOps
 - 💞️ I’m looking to collaborate on learning and coding opportunities
-- 📫 How to reach me @ steven.laszloffy@gmail.com
-- 💻 Check out my projects and progress @ https://medium.com/@s.laszloffy
-- 👨‍💼 Feel free to connect with me on LinkedIn @ https://www.linkedin.com/in/stevenlaszloffy/
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
@@ -41,7 +38,7 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=vypr907>&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vypr907&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vypr907&hide=TeX&layout=compact)
 
 
